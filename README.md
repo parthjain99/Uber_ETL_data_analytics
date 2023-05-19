@@ -40,6 +40,15 @@ More info about dataset can be found here:
 ## Pipeline 
 <img src="Images/pipeline.png">
 
+## Insights 
+Some insights generated were 
+* Standard rate code generates the highest revenue indicating its popularity among users. 
+* On average, trips to Newark result in the highest tip at $11. 
+* Credit cards are the preferred mode of payment accounting for a significant 75% of all transactions, followed by cash.
+* One-person trips make up the majority, comprising 66% of all recorded journeys.
+* The bustling area around Jackson Ave, near the Queens Plaza station in Long Island City stands out as the top pickup location.
+* The highest fare occurs at 2pm suggesting a peak period of travel. In contrast, the lowest fare is observed at 7am, likely due to off-peak hours.
+
 ## Dashboard
 <img src="Images/Uber_Dashboard.jpg">
 
